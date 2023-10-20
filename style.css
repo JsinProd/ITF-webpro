@@ -1,0 +1,20 @@
+body{
+    background-color: darkkhaki;
+    font-family: 'Josefin Sans';
+    /*text-align: center;*/
+    
+}
+
+img{
+    border: 5px solid black;
+    border-radius: 1cm;
+    float: right;
+}
+
+.content-1{
+    display: inline-block;
+    width: 25%;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: large;
+}
